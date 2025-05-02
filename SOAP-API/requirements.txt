@@ -1,0 +1,4 @@
+spyne==2.13.16
+lxml==4.6.3
+oracledb==1.0.0
+upstash-redis>=0.12.1
